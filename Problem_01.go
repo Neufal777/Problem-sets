@@ -41,6 +41,4 @@ func solution(aircraftEmissions []string, flightItineraries []string, origin str
 
 }
 
-func main() {
-
-}
+func main() {}
