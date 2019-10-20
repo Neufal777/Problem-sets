@@ -40,3 +40,7 @@ func solution(aircraftEmissions []string, flightItineraries []string, origin str
 	return 0
 
 }
+
+func main() {
+
+}
