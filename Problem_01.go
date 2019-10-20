@@ -2,7 +2,6 @@ package main
 
 import "strconv"
 import "strings"
-
 import "math"
 
 func solution(aircraftEmissions []string, flightItineraries []string, origin string, destination string) float64 {
